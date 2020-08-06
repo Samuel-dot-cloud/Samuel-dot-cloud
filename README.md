@@ -1,6 +1,6 @@
 
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAMAAAArteDzAAAAYFBMVEUAAAD////h4eH09PSSkpLd3d3IyMj39/d+fn76+vrPz89dXV3FxcXv7+/Ly8sxMTG2trYfHx8+Pj5ra2uMjIyZmZnp6em8vLyoqKgPDw/X19d1dXVUVFQkJCRLS0saGho0rdEiAAAB5UlEQVRYhe2XyZqCMBCEm8VBEUXZFNTx/d9y2BK6Qj7QhMMcUjfSnZ+lqaRD5OTk5OTktLUOHirWp12VtNMiNFSyvfSjtOPyo96U9Is264RJv8tMop1CvWpynpARZWtMegcIvWtyEp4Q6L8QKkNoNM+oV19lrhypxSyh5OHdR0xlkhfM4hUP+x9C6wioDyV89EygFCxOS7aAek+MeptA0auhORS44JgKg99A4Q+4sVhXprshtIBy1FOsHW/2htAQjDV59dVePQpTKDVs5kGGws64oTEU3Cq9eupWQ3MouFEs7V2ZMhsoL4fwatJTLKCwvld9oB6+hA0UvNNvQ93fS3ZQcHnv1WowghWUO6etT1+mpy30xaEJ0c/IsILihp12ZQrtoejVYiiTLZRiNj2q+m9gD8W2QfQ3llDygTm61Rb6AGi5DRR7sddGUL4gn2kjKLHOQrShptCpg5q2QNkvm0BTDzZQtUxm0Ji/KtFFzJeNqAH0ApUeHrzT1Kh8DxW7SCVHxhYglwPlt9DJmGccmvrUFHqiXIsBvdlJSrYQDVxlymFrvwqtdOk5L5PKXKdiQyvbvfZWjWCqyFVqqWQfxl9gLzd+dS0cND9scOj5BxSLc1ciqlb4u7l8/bnQycnJycnp3+kPVDQSG+hauNcAAAAASUVORK5CYII="></a>&nbsp;&nbsp;
+<a href="https://dev.to/waylonwalker"><img height="30" src=""></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SamuelK04292534"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/samuel-wahome-571a1a1b0/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
