@@ -8,14 +8,14 @@
 # Hi there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Samuel Wahome, and I'm a software developer, who is interested in all things code and tech, but currently focusing on Java and JavaScript.:technologist::computer::kenya:
 
-#### TOOLS AND TECHNOLOGIES:wrench::hammer_and_pick:
+### TOOLS AND TECHNOLOGIES:wrench::hammer_and_pick:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=spark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 
