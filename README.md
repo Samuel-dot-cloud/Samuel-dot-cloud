@@ -10,7 +10,7 @@
 </p>
 
 # Hi there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Samuel Wahome, and I'm a software developer, who is interested in all things code and tech, always curious and always learning.:technologist::computer::kenya::medal:🥇
+My name is Samuel Wahome, and I'm a software developer, who is interested in all things code and tech, always curious and always learning.:technologist::computer::kenya:🥇
 
 ## TOOLS AND TECHNOLOGIES:wrench::hammer_and_pick:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
