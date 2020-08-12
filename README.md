@@ -1,6 +1,6 @@
 <!-- [![Header](https://raw.githubusercontent.com/Samuel-dot-cloud/Samuel-dot-cloud/master/pics/header.png?raw=true)](https://samuel-dot-cloud.github.io/portfolio-v1/#me) -->
 
-<a href="https://samuel-dot-cloud.github.io/portfolio-v1/#me"><img height="100" src="pics/header.png.png"></a>
+<a href="https://samuel-dot-cloud.github.io/portfolio-v1/#me"><img height="100%" src="pics/header.png"></a>
 
 
 <p align='center'>
