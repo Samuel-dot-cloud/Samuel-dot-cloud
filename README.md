@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Samuel-dot-cloud/Samuel-dot-cloud/master/pics/header.png "Header")](https://samuel-dot-cloud.github.io/portfolio-v1/#me)
+[![Header](https://raw.githubusercontent.com/Samuel-dot-cloud/Samuel-dot-cloud/master/pics/header.png?raw=true)](https://samuel-dot-cloud.github.io/portfolio-v1/#me)
 
 
 <p align='center'>
