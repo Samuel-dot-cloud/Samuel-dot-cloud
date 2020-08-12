@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Samuel-dot-cloud/Samuel-dot-cloud/master/pics/Green%20and%20Cream%20Simple%20Sales%20M)](https://samuel-dot-cloud.github.io/portfolio-v1/#me)
+[![Header](https://raw.githubusercontent.com/Samuel-dot-cloud/Samuel-dot-cloud/master/pics/header.png "Header")](https://samuel-dot-cloud.github.io/portfolio-v1/#me)
 
 
 <p align='center'>
