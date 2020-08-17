@@ -27,6 +27,8 @@ My name is Samuel Wahome. I'm a software developer, who is interested in all thi
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=yellow&color=2bbc8a)
 
+## &#x1f4c8; GitHub Stats
+
 
 
 <!--
