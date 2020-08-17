@@ -13,7 +13,7 @@
 </p>
 
 # Hi there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Samuel Wahome. I'm a software developer, who is interested in all things code and tech, always curious and always learning.:technologist::computer::kenya:🥇
+My name is Samuel Wahome. I'm a young and upcoming software developer, who is interested in all things code and tech, always curious and always learning.:technologist::computer::kenya:🥇
 
 ## TOOLS AND TECHNOLOGIES:wrench::hammer_and_pick:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -28,6 +28,7 @@ My name is Samuel Wahome. I'm a software developer, who is interested in all thi
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=yellow&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
+---------------------------------------
 
 
 
