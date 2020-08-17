@@ -2,12 +2,12 @@
 
 <!-- <a href="https://samuel-dot-cloud.github.io/portfolio-v1/#me"><img height="100%" width="100%" src="pics/header.gif"></a> -->
 
-[![Header](https://raw.githubusercontent.com/Samuel-dot-cloud/Samuel-dot-cloud/master/header.gif "Header")](https://samuel-dot-cloud.github.io/portfolio-v1/#me)
+[![Header](https://github.com/Samuel-dot-cloud/Samuel-dot-cloud/blob/master/pics/header.gif "Header")](https://samuel-dot-cloud.github.io/portfolio-v1/#me)
 
 
 
 <p align='center'>
-<a href="https://medium.com/@successam336"><img height="30" src="pics/medium.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@successam336"><img height="30" src="https://github.com/Samuel-dot-cloud/Samuel-dot-cloud/blob/master/pics/medium.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/SamuelK04292534"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/samuel-wahome-571a1a1b0/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
