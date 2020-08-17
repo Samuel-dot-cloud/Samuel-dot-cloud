@@ -1,6 +1,9 @@
 <!-- [![Header](https://raw.githubusercontent.com/Samuel-dot-cloud/Samuel-dot-cloud/master/pics/header.png?raw=true)](https://samuel-dot-cloud.github.io/portfolio-v1/#me) -->
 
-<a href="https://samuel-dot-cloud.github.io/portfolio-v1/#me"><img height="100%" width="100%" src="pics/header.gif"></a>
+<!-- <a href="https://samuel-dot-cloud.github.io/portfolio-v1/#me"><img height="100%" width="100%" src="pics/header.gif"></a> -->
+
+[![Header](https://raw.githubusercontent.com/Samuel-dot-cloud/Samuel-dot-cloud/master/header.gif "Header")](https://samuel-dot-cloud.github.io/portfolio-v1/#me)
+
 
 
 <p align='center'>
@@ -10,7 +13,7 @@
 </p>
 
 # Hi there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Samuel Wahome, and I'm a software developer, who is interested in all things code and tech, always curious and always learning.:technologist::computer::kenya:🥇
+My name is Samuel Wahome. I'm a software developer, who is interested in all things code and tech, always curious and always learning.:technologist::computer::kenya:🥇
 
 ## TOOLS AND TECHNOLOGIES:wrench::hammer_and_pick:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
