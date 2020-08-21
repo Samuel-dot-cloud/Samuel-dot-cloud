@@ -29,19 +29,19 @@ My name is Samuel Wahome. I'm a software developer, who is interested in all thi
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Samuel-dot-cloud">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Samuel-dot-cloud&hide=stars,issues&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-dot-cloud&hide=stars,issues&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Samuel-dot-cloud">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-dot-cloud&hide=python&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-dot-cloud&hide=python&theme=dracula" />
 </a>
 
 <a href="https://github.com/Samuel-dot-cloud/MyEdu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-dot-cloud&repo=MyEdu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-dot-cloud&repo=MyEdu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Samuel-dot-cloud/Timer-App">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-dot-cloud&repo=Timer-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-dot-cloud&repo=Timer-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
