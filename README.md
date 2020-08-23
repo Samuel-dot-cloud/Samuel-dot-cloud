@@ -8,7 +8,7 @@
 
 <p align='center'>
 <a href="https://medium.com/@successam336"><img height="30" src="https://github.com/Samuel-dot-cloud/Samuel-dot-cloud/blob/master/pics/medium.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/SamuelK04292534"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/samuelwahome_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/samuel-wahome-571a1a1b0/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
