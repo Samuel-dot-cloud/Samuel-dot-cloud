@@ -36,8 +36,8 @@ My name is Samuel Wahome. I'm a software developer, who is interested in all thi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-dot-cloud&hide=python&theme=dracula" />
 </a>
 
-<a href="https://github.com/Samuel-dot-cloud/MyEdu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-dot-cloud&repo=MyEdu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Samuel-dot-cloud/npm-library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-dot-cloud&repo=npm-library&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Samuel-dot-cloud/Timer-App">
