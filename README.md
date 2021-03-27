@@ -2,7 +2,7 @@
 
 <!-- <a href="https://samuel-dot-cloud.github.io/portfolio-v1/#me"><img height="100%" width="100%" src="pics/header.gif"></a> -->
 
-[![Header](https://github.com/Samuel-dot-cloud/Samuel-dot-cloud/blob/master/pics/header.gif "Header")](https://samuel-dot-cloud.github.io/portfolio-v1/#me)
+[![Header](https://github.com/Samuel-dot-cloud/Samuel-dot-cloud/blob/master/pics/header.gif "Header")](https://samwahome.netlify.app/)
 
 
 
