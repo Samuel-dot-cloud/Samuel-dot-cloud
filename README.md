@@ -33,7 +33,7 @@ My name is Samuel Wahome. I'm a software developer, who is interested in all thi
 </a>
 
 <a href="https://github.com/Samuel-dot-cloud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-dot-cloud&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-dot-cloud&hide=python&theme=dracula" />
 </a>
 
 <a href="https://github.com/Samuel-dot-cloud/npm-library">
