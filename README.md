@@ -27,6 +27,7 @@ My name is Samuel Wahome. I'm a software developer, who is interested in all thi
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=yellow&color=2bbc8a)
 
+<!--
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Samuel-dot-cloud">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samuel-dot-cloud&hide=stars,issues&show_icons=true&theme=radical" />
@@ -43,6 +44,7 @@ My name is Samuel Wahome. I'm a software developer, who is interested in all thi
 <a href="https://github.com/Samuel-dot-cloud/Timer-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Samuel-dot-cloud&repo=Timer-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+-->
 
 
 
